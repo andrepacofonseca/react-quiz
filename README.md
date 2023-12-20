@@ -1,3 +1,9 @@
+# React-quiz
+
+Simple react quiz with 15 questions.
+Try it and try to beat your highscore!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
