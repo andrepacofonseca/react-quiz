@@ -3,6 +3,8 @@
 Simple react quiz with 15 questions.
 Try it and try to beat your highscore!
 
+(this project was created with the guidance of Jonas Schmedtmann, via his Udemy course)
+
 
 # Getting Started with Create React App
 
